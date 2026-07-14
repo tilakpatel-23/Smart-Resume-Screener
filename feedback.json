@@ -1,0 +1,347 @@
+[
+  {
+    "text": "ananya singh role data analyst professional summary data analyst with strong skills in transforming data into actionable insights through visualization tools key skills sql excel tableau power bi python data cleaning data visualization projects created interactive sales dashboard in power bi reducing reporting time by education b tech in computer science experience years",
+    "label": "❌ Rejected",
+    "role": "Data Analyst"
+  },
+  {
+    "text": "rohan mehta role web developer professional summary web developer with years of experience creating responsive user friendly websites and web apps key skills html css javascript react node js rest apis git responsive design projects developed an e commerce website using react and node js with integrated payment gateway education b tech in computer science experience years",
+    "label": "✅ Shortlisted",
+    "role": "Web Developer"
+  },
+  {
+    "text": "rohan mehta role web developer professional summary web developer with years of experience creating responsive user friendly websites and web apps key skills html css javascript react node js rest apis git responsive design projects developed an e commerce website using react and node js with integrated payment gateway education b tech in computer science experience years",
+    "label": "✅ Shortlisted",
+    "role": "Web Developer"
+  },
+  {
+    "text": "rahul mehta role machine learning engineer summary machine learning engineer with expertise in model development training pipelines and data preprocessing for predictive analytics skills python tensorflow scikit learn pandas numpy machine learning deep learning aws experience built machine learning models for classification and regression deployed models on aws using ci cd pipelines",
+    "label": "✅ Shortlisted",
+    "role": "ML Engineer"
+  },
+  {
+    "text": "Priya Sharma\nRole: Data Analyst\nSummary:\nAnalytical professional experienced in transforming data into actionable insights using visualization and statistical tools.\nSkills:\nPython, SQL, Power BI, Tableau, Excel, Pandas, Data Cleaning, Reporting\nExperience:\nAnalyzed large datasets to identify trends and improve decision-making. Built interactive dashboards with Power BI.",
+    "label": "👍 Correct",
+    "role": "Data Analyst"
+  },
+  {
+    "text": "Ananya Singh\nRole: Data Analyst 1\nProfessional Summary: Data analyst with strong skills in transforming data into actionable\ninsights through visualization tools.\nKey Skills: SQL, Excel, Tableau, Power BI, Python, Data Cleaning, Data Visualization\nProjects: Created interactive sales dashboard in Power BI, reducing reporting time by 50%.\nEducation: B.Tech in Computer Science\nExperience: 2-3 years",
+    "label": "👍 Correct",
+    "role": "Data Analyst"
+  },
+  {
+    "text": "Vivek Patel\nRole: Data Analyst 2\nProfessional Summary: Detail-oriented analyst with hands-on experience in data analytics\nand business intelligence tools.\nKey Skills: Python, Pandas, Numpy, Matplotlib, SQL, Tableau, Statistics, Data Mining\nProjects: Automated monthly sales reports using Python and Tableau, improving accuracy\nand efficiency.\nEducation: B.Tech in Computer Science\nExperience: 2-3 years",
+    "label": "👍 Correct",
+    "role": "Data Analyst"
+  },
+  {
+    "text": "Priya Sharma\nRole: Data Analyst\nSummary:\nAnalytical professional experienced in transforming data into actionable insights using visualization and statistical tools.\nSkills:\nPython, SQL, Power BI, Tableau, Excel, Pandas, Data Cleaning, Reporting\nExperience:\nAnalyzed large datasets to identify trends and improve decision-making. Built interactive dashboards with Power BI.",
+    "label": "👍 Correct",
+    "role": "Data Analyst"
+  },
+  {
+    "text": "Ananya Singh\nRole: Data Analyst 1\nProfessional Summary: Data analyst with strong skills in transforming data into actionable\ninsights through visualization tools.\nKey Skills: SQL, Excel, Tableau, Power BI, Python, Data Cleaning, Data Visualization\nProjects: Created interactive sales dashboard in Power BI, reducing reporting time by 50%.\nEducation: B.Tech in Computer Science\nExperience: 2-3 years",
+    "label": "👍 Correct",
+    "role": "Data Analyst"
+  },
+  {
+    "text": "Vivek Patel\nRole: Data Analyst 2\nProfessional Summary: Detail-oriented analyst with hands-on experience in data analytics\nand business intelligence tools.\nKey Skills: Python, Pandas, Numpy, Matplotlib, SQL, Tableau, Statistics, Data Mining\nProjects: Automated monthly sales reports using Python and Tableau, improving accuracy\nand efficiency.\nEducation: B.Tech in Computer Science\nExperience: 2-3 years",
+    "label": "👍 Correct",
+    "role": "Data Analyst"
+  },
+  {
+    "text": "Priya Sharma\nRole: Data Analyst\nSummary:\nAnalytical professional experienced in transforming data into actionable insights using visualization and statistical tools.\nSkills:\nPython, SQL, Power BI, Tableau, Excel, Pandas, Data Cleaning, Reporting\nExperience:\nAnalyzed large datasets to identify trends and improve decision-making. Built interactive dashboards with Power BI.",
+    "label": "👍 Correct",
+    "role": "Web Developer"
+  },
+  {
+    "text": "Ananya Singh\nRole: Data Analyst 1\nProfessional Summary: Data analyst with strong skills in transforming data into actionable\ninsights through visualization tools.\nKey Skills: SQL, Excel, Tableau, Power BI, Python, Data Cleaning, Data Visualization\nProjects: Created interactive sales dashboard in Power BI, reducing reporting time by 50%.\nEducation: B.Tech in Computer Science\nExperience: 2-3 years",
+    "label": "👍 Correct",
+    "role": "Web Developer"
+  },
+  {
+    "text": "Vivek Patel\nRole: Data Analyst 2\nProfessional Summary: Detail-oriented analyst with hands-on experience in data analytics\nand business intelligence tools.\nKey Skills: Python, Pandas, Numpy, Matplotlib, SQL, Tableau, Statistics, Data Mining\nProjects: Automated monthly sales reports using Python and Tableau, improving accuracy\nand efficiency.\nEducation: B.Tech in Computer Science\nExperience: 2-3 years",
+    "label": "👍 Correct",
+    "role": "Web Developer"
+  },
+  {
+    "text": "alex carter role web developer summary passionate web developer skilled in modern front end and back end technologies with experience in responsive web design and api integration skills html css javascript react node js express mongodb git experience developed responsive websites and rest apis using react and node js optimized performance and accessibility",
+    "label": "✅ Shortlisted",
+    "role": "Web Developer"
+  },
+  {
+    "text": "rohan mehta role web developer 1 professional summary web developer with 3 years of experience creating responsive user friendly websites and web apps key skills html css javascript react node js rest apis git responsive design projects developed an e commerce website using react and node js with integrated payment gateway education b tech in computer science experience 2 3 years",
+    "label": "✅ Shortlisted",
+    "role": "Web Developer"
+  },
+  {
+    "text": "priya shah role web developer 2 professional summary frontend developer skilled in building interactive and scalable web applications using modern frameworks key skills html css javascript angular typescript rest apis figma github projects built a dynamic portfolio site using angular and integrated backend with firebase education b tech in computer science experience 2 3 years",
+    "label": "✅ Shortlisted",
+    "role": "Web Developer"
+  },
+  {
+    "text": "priya sharma role data analyst summary analytical professional experienced in transforming data into actionable insights using visualization and statistical tools skills python sql power bi tableau excel pandas data cleaning reporting experience analyzed large datasets to identify trends and improve decision making built interactive dashboards with power bi",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "ananya singh role data analyst 1 professional summary data analyst with strong skills in transforming data into actionable insights through visualization tools key skills sql excel tableau power bi python data cleaning data visualization projects created interactive sales dashboard in power bi reducing reporting time by 50 education b tech in computer science experience 2 3 years",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "vivek patel role data analyst 2 professional summary detail oriented analyst with hands on experience in data analytics and business intelligence tools key skills python pandas numpy matplotlib sql tableau statistics data mining projects automated monthly sales reports using python and tableau improving accuracy and efficiency education b tech in computer science experience 2 3 years",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "rahul mehta role machine learning engineer summary machine learning engineer with expertise in model development training pipelines and data preprocessing for predictive analytics skills python tensorflow scikit learn pandas numpy machine learning deep learning aws experience built machine learning models for classification and regression deployed models on aws using ci cd pipelines",
+    "label": "✅ Shortlisted",
+    "role": "Python Developer"
+  },
+  {
+    "text": "sara johnson role python developer summary python developer with solid experience in automation backend development and integrating apis efficiently skills python flask django sqlalchemy apis git unit testing oop experience developed and maintained python based backend systems and apis using flask and django",
+    "label": "✅ Shortlisted",
+    "role": "Python Developer"
+  },
+  {
+    "text": "alice smith data scientist machine learning engineer summary results oriented data scientist with expertise in python sql and machine learning specialized in data preprocessing predictive modeling and natural language processing proficient with libraries like scikit learn and tensorflow skills python sql machine learning deep learning data visualization power bi matplotlib model optimization feature engineering experience data scientist at datanova labs 2020 2024 built regression and classification models using scikit learn automated data cleaning and feature selection using pandas education m sc in data science 2019",
+    "label": "✅ Shortlisted",
+    "role": "Python Developer"
+  },
+  {
+    "text": "john doe software engineer python developer machine learning enthusiast summary experienced software developer skilled in python java and sql worked on multiple backend systems using flask and rest apis implemented machine learning models for predictive analytics and nlp skills python java sql machine learning scikit learn tensorflow pandas numpy rest api flask git docker aws experience software developer at techvision 2021 2024 developed scalable apis using flask and sqlalchemy built machine learning pipelines for text classification education b tech in computer science 2020",
+    "label": "✅ Shortlisted",
+    "role": "Python Developer"
+  },
+  {
+    "text": "mark taylor full stack developer software engineer summary versatile software developer with 4 years of experience in full stack development strong background in java sql and python built enterprise grade web applications using django and react skills java python sql django reactjs rest api docker aws git agile development ci cd experience full stack developer at innovatetech 2019 2024 designed and developed web services using django and react managed sql database optimization and backend scalability education b e in software engineering 2018",
+    "label": "✅ Shortlisted",
+    "role": "Python Developer"
+  },
+  {
+    "text": "samantha lee marketing specialist samantha lee email com 555 987 6543 los angeles ca professional summary creative marketing specialist with 6 years of experience in digital campaigns content strategy and brand growth skills seo content marketing google analytics social media strategy email campaigns adobe creative suite experience marketing manager bright media group 2019 present directed social media campaigns and increased engagement by 45 digital marketing specialist growthworks 2015 2019 executed seo strategies and managed paid advertising campaigns education b a in marketing university of california los angeles 2015",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "alex johnson software engineer alex johnson email com 555 123 4567 new york ny professional summary passionate software engineer with 5 years of experience developing scalable web applications and cloud solutions skills python java javascript react aws sql docker experience senior software engineer techcorp inc 2020 present led a team of developers in building microservices for e commerce platforms software engineer innovatech solutions 2017 2020 developed rest apis and optimized database performance for saas products education b sc in computer science new york university 2017",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "gajanan g parve career objective 9175199947 9175013649 desire to be a part of vibrant leading automotive organization create footprints as a quality assurance field of interest engineer to assist the organizations in all aspects by utilizing all my skills knowledge abilities experience quality management with a balance of hands on management leadership responsibilities system sqa profile summary design development catia v5 knowledge a competent professional with 13 plus years of experience in quality management system production quality assurance control core competencies internal auditor certification iqcpl trng 002 2025 welding process certified ultrasonic spot weld testing by daimler ag stamping process experience of dealing with customers and suppliers handling child part layout experience of handling internal external and customer audits iatf 16949 2016 vda inspection 6 3 corrosion audit cqi12audit cqi15 audit product and process audits dock audit raw material testing having knowledge about core tools apqp ppap pfmea spc msa visual dimensional gauging inspection company profile incoming in process final 1 quality measuring am quality instruments handling marelli talbros pvt ltd is supplier of lca lower control arm of punch altroz nexon product and process mid suv supplier of tata motor fiat rear seat part to jaguar land rover it is audits established documented quality management system covering the requirements of iso ts16949 employement scan marelli talbros chassis system pvt ltd pune sr quality engineer am manager quality an iatf 16949 2016 iso 14001 2015 ohsas 19001 2007 company it has evolved into nov 2024 to till date a system supplier of designing developing manufacturing assemblies for the automotive industry supplying of biw subassemblies to mercedes benz india ltd pune s m auto engg pvt ltd supplying of silencer subassemblies to mahindra mahindra bajaj auto pune chakan pune sr quality engineer oct 2015 to april 24 sr quality engineer an iatf 16949 2016 iso 14001 2015 ohsas 19001 2007 company it has evolved into autoline industries a system supplier of manufacturing assemblies for the automotive industry ltd pune supplying of biw subassemblies to tata motor ltd pune sr quality engineer apr 2006 to dec 2010 responsibilities to establish maintain effectiveness of qms lead team of in process final qa engineers for maintain customer quality requirements as per standard professional trainings approve daily first piece inspection reports of stamping welding process 8d to generate purchase requisition purchase order of consumable item 7 qc tools asset as per requirement in quality core tools responsible for plant kpi data and action closure with effectiveness spc monitoring msa planning and execution of internal audits ultrasound test attend customer and external audits non conformity closure and effectiveness monitoring of internal customer and external audits handling customer complaints and 8d report with effectiveness monitoring daily internal rework rejection monitoring by red bin analysis software skills planning and execution of msa attribute study autocad catia v5 excel sap monitoring calibration of tools gauges machines equipment responsible for updating maintaining iatf 16949 2016 documentation hobbies incorporate refresh and on job training to quality engineers driving listening to control of review revision updating distribution of overall qm music documentation monitoring controlling different manufacturing process shop floor activities as personal dossiers per control plan implemented 5 s tpm kaizen activities on shop floor name gajanan g parve conducting daily morning meeting with all department executive to analyzing shop floor activity sales production quality planning dob 20 03 1979 achievement during tenure at company team lead to achieve best supplier performance rating of mercedes benz india ltd marital status married continuous improvement in monthly supplier performance rating team lead of relocation projects of e class c class glc subassemblies gender male successfully facing all types of process audits conducting by customer production audit vda 6 3 audit surveillance audit tcm audit ds audit corrosion nationality indian audit language known english personal traits marathi hindi willing to work as a key player in challenging and creative environment ability to acquire and apply knowledge rapidly residential address positive attitude and meeting deadlines shree samarth ht fl no 5 have leadership quality and good presentation skills good coordinator co sr no 78 4 gajanan maharaj operation with the team nagar near ganesh mandir self driven personality coupled with problem solving attitude dighi pune 411015 educational qualification diploma in mechanical engineering from bte board mumbai 2001 hsc with pune board in 1997 ssc with pune board in 1995 declaration i hereby declare that all the above information furnished by me is true to the best of my knowledge date place gajanan g parve",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "david lee role software engineer summary results driven software engineer proficient in full stack development and software architecture design skills c python java sql data structures algorithms git agile experience designed and implemented scalable software solutions in cross functional teams using agile methodologies",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "priya sharma role data analyst summary analytical professional experienced in transforming data into actionable insights using visualization and statistical tools skills python sql power bi tableau excel pandas data cleaning reporting experience analyzed large datasets to identify trends and improve decision making built interactive dashboards with power bi",
+    "label": "❌ Rejected",
+    "role": "ML Engineer"
+  },
+  {
+    "text": "ananya singh role data analyst 1 professional summary data analyst with strong skills in transforming data into actionable insights through visualization tools key skills sql excel tableau power bi python data cleaning data visualization projects created interactive sales dashboard in power bi reducing reporting time by 50 education b tech in computer science experience 2 3 years",
+    "label": "❌ Rejected",
+    "role": "ML Engineer"
+  },
+  {
+    "text": "vivek patel role data analyst 2 professional summary detail oriented analyst with hands on experience in data analytics and business intelligence tools key skills python pandas numpy matplotlib sql tableau statistics data mining projects automated monthly sales reports using python and tableau improving accuracy and efficiency education b tech in computer science experience 2 3 years",
+    "label": "❌ Rejected",
+    "role": "ML Engineer"
+  },
+  {
+    "text": "rahul mehta role machine learning engineer summary machine learning engineer with expertise in model development training pipelines and data preprocessing for predictive analytics skills python tensorflow scikit learn pandas numpy machine learning deep learning aws experience built machine learning models for classification and regression deployed models on aws using ci cd pipelines",
+    "label": "✅ Shortlisted",
+    "role": "ML Engineer"
+  },
+  {
+    "text": "sara johnson role python developer summary python developer with solid experience in automation backend development and integrating apis efficiently skills python flask django sqlalchemy apis git unit testing oop experience developed and maintained python based backend systems and apis using flask and django",
+    "label": "❌ Rejected",
+    "role": "ML Engineer"
+  },
+  {
+    "text": "alice smith data scientist machine learning engineer summary results oriented data scientist with expertise in python sql and machine learning specialized in data preprocessing predictive modeling and natural language processing proficient with libraries like scikit learn and tensorflow skills python sql machine learning deep learning data visualization power bi matplotlib model optimization feature engineering experience data scientist at datanova labs 2020 2024 built regression and classification models using scikit learn automated data cleaning and feature selection using pandas education m sc in data science 2019",
+    "label": "✅ Shortlisted",
+    "role": "ML Engineer"
+  },
+  {
+    "text": "john doe software engineer python developer machine learning enthusiast summary experienced software developer skilled in python java and sql worked on multiple backend systems using flask and rest apis implemented machine learning models for predictive analytics and nlp skills python java sql machine learning scikit learn tensorflow pandas numpy rest api flask git docker aws experience software developer at techvision 2021 2024 developed scalable apis using flask and sqlalchemy built machine learning pipelines for text classification education b tech in computer science 2020",
+    "label": "✅ Shortlisted",
+    "role": "ML Engineer"
+  },
+  {
+    "text": "mark taylor full stack developer software engineer summary versatile software developer with 4 years of experience in full stack development strong background in java sql and python built enterprise grade web applications using django and react skills java python sql django reactjs rest api docker aws git agile development ci cd experience full stack developer at innovatetech 2019 2024 designed and developed web services using django and react managed sql database optimization and backend scalability education b e in software engineering 2018",
+    "label": "❌ Rejected",
+    "role": "ML Engineer"
+  },
+  {
+    "text": "samantha lee marketing specialist samantha lee email com 555 987 6543 los angeles ca professional summary creative marketing specialist with 6 years of experience in digital campaigns content strategy and brand growth skills seo content marketing google analytics social media strategy email campaigns adobe creative suite experience marketing manager bright media group 2019 present directed social media campaigns and increased engagement by 45 digital marketing specialist growthworks 2015 2019 executed seo strategies and managed paid advertising campaigns education b a in marketing university of california los angeles 2015",
+    "label": "❌ Rejected",
+    "role": "ML Engineer"
+  },
+  {
+    "text": "alex johnson software engineer alex johnson email com 555 123 4567 new york ny professional summary passionate software engineer with 5 years of experience developing scalable web applications and cloud solutions skills python java javascript react aws sql docker experience senior software engineer techcorp inc 2020 present led a team of developers in building microservices for e commerce platforms software engineer innovatech solutions 2017 2020 developed rest apis and optimized database performance for saas products education b sc in computer science new york university 2017",
+    "label": "❌ Rejected",
+    "role": "ML Engineer"
+  },
+  {
+    "text": "gajanan g parve career objective 9175199947 9175013649 desire to be a part of vibrant leading automotive organization create footprints as a quality assurance field of interest engineer to assist the organizations in all aspects by utilizing all my skills knowledge abilities experience quality management with a balance of hands on management leadership responsibilities system sqa profile summary design development catia v5 knowledge a competent professional with 13 plus years of experience in quality management system production quality assurance control core competencies internal auditor certification iqcpl trng 002 2025 welding process certified ultrasonic spot weld testing by daimler ag stamping process experience of dealing with customers and suppliers handling child part layout experience of handling internal external and customer audits iatf 16949 2016 vda inspection 6 3 corrosion audit cqi12audit cqi15 audit product and process audits dock audit raw material testing having knowledge about core tools apqp ppap pfmea spc msa visual dimensional gauging inspection company profile incoming in process final 1 quality measuring am quality instruments handling marelli talbros pvt ltd is supplier of lca lower control arm of punch altroz nexon product and process mid suv supplier of tata motor fiat rear seat part to jaguar land rover it is audits established documented quality management system covering the requirements of iso ts16949 employement scan marelli talbros chassis system pvt ltd pune sr quality engineer am manager quality an iatf 16949 2016 iso 14001 2015 ohsas 19001 2007 company it has evolved into nov 2024 to till date a system supplier of designing developing manufacturing assemblies for the automotive industry supplying of biw subassemblies to mercedes benz india ltd pune s m auto engg pvt ltd supplying of silencer subassemblies to mahindra mahindra bajaj auto pune chakan pune sr quality engineer oct 2015 to april 24 sr quality engineer an iatf 16949 2016 iso 14001 2015 ohsas 19001 2007 company it has evolved into autoline industries a system supplier of manufacturing assemblies for the automotive industry ltd pune supplying of biw subassemblies to tata motor ltd pune sr quality engineer apr 2006 to dec 2010 responsibilities to establish maintain effectiveness of qms lead team of in process final qa engineers for maintain customer quality requirements as per standard professional trainings approve daily first piece inspection reports of stamping welding process 8d to generate purchase requisition purchase order of consumable item 7 qc tools asset as per requirement in quality core tools responsible for plant kpi data and action closure with effectiveness spc monitoring msa planning and execution of internal audits ultrasound test attend customer and external audits non conformity closure and effectiveness monitoring of internal customer and external audits handling customer complaints and 8d report with effectiveness monitoring daily internal rework rejection monitoring by red bin analysis software skills planning and execution of msa attribute study autocad catia v5 excel sap monitoring calibration of tools gauges machines equipment responsible for updating maintaining iatf 16949 2016 documentation hobbies incorporate refresh and on job training to quality engineers driving listening to control of review revision updating distribution of overall qm music documentation monitoring controlling different manufacturing process shop floor activities as personal dossiers per control plan implemented 5 s tpm kaizen activities on shop floor name gajanan g parve conducting daily morning meeting with all department executive to analyzing shop floor activity sales production quality planning dob 20 03 1979 achievement during tenure at company team lead to achieve best supplier performance rating of mercedes benz india ltd marital status married continuous improvement in monthly supplier performance rating team lead of relocation projects of e class c class glc subassemblies gender male successfully facing all types of process audits conducting by customer production audit vda 6 3 audit surveillance audit tcm audit ds audit corrosion nationality indian audit language known english personal traits marathi hindi willing to work as a key player in challenging and creative environment ability to acquire and apply knowledge rapidly residential address positive attitude and meeting deadlines shree samarth ht fl no 5 have leadership quality and good presentation skills good coordinator co sr no 78 4 gajanan maharaj operation with the team nagar near ganesh mandir self driven personality coupled with problem solving attitude dighi pune 411015 educational qualification diploma in mechanical engineering from bte board mumbai 2001 hsc with pune board in 1997 ssc with pune board in 1995 declaration i hereby declare that all the above information furnished by me is true to the best of my knowledge date place gajanan g parve",
+    "label": "❌ Rejected",
+    "role": "ML Engineer"
+  },
+  {
+    "text": "david lee role software engineer summary results driven software engineer proficient in full stack development and software architecture design skills c python java sql data structures algorithms git agile experience designed and implemented scalable software solutions in cross functional teams using agile methodologies",
+    "label": "❌ Rejected",
+    "role": "ML Engineer"
+  },
+  {
+    "text": "priya sharma role data analyst summary analytical professional experienced in transforming data into actionable insights using visualization and statistical tools skills python sql power bi tableau excel pandas data cleaning reporting experience analyzed large datasets to identify trends and improve decision making built interactive dashboards with power bi",
+    "label": "❌ Rejected",
+    "role": "Software Engineer"
+  },
+  {
+    "text": "ananya singh role data analyst 1 professional summary data analyst with strong skills in transforming data into actionable insights through visualization tools key skills sql excel tableau power bi python data cleaning data visualization projects created interactive sales dashboard in power bi reducing reporting time by 50 education b tech in computer science experience 2 3 years",
+    "label": "❌ Rejected",
+    "role": "Software Engineer"
+  },
+  {
+    "text": "vivek patel role data analyst 2 professional summary detail oriented analyst with hands on experience in data analytics and business intelligence tools key skills python pandas numpy matplotlib sql tableau statistics data mining projects automated monthly sales reports using python and tableau improving accuracy and efficiency education b tech in computer science experience 2 3 years",
+    "label": "❌ Rejected",
+    "role": "Software Engineer"
+  },
+  {
+    "text": "rahul mehta role machine learning engineer summary machine learning engineer with expertise in model development training pipelines and data preprocessing for predictive analytics skills python tensorflow scikit learn pandas numpy machine learning deep learning aws experience built machine learning models for classification and regression deployed models on aws using ci cd pipelines",
+    "label": "❌ Rejected",
+    "role": "Software Engineer"
+  },
+  {
+    "text": "sara johnson role python developer summary python developer with solid experience in automation backend development and integrating apis efficiently skills python flask django sqlalchemy apis git unit testing oop experience developed and maintained python based backend systems and apis using flask and django",
+    "label": "✅ Shortlisted",
+    "role": "Software Engineer"
+  },
+  {
+    "text": "alice smith data scientist machine learning engineer summary results oriented data scientist with expertise in python sql and machine learning specialized in data preprocessing predictive modeling and natural language processing proficient with libraries like scikit learn and tensorflow skills python sql machine learning deep learning data visualization power bi matplotlib model optimization feature engineering experience data scientist at datanova labs 2020 2024 built regression and classification models using scikit learn automated data cleaning and feature selection using pandas education m sc in data science 2019",
+    "label": "❌ Rejected",
+    "role": "Software Engineer"
+  },
+  {
+    "text": "john doe software engineer python developer machine learning enthusiast summary experienced software developer skilled in python java and sql worked on multiple backend systems using flask and rest apis implemented machine learning models for predictive analytics and nlp skills python java sql machine learning scikit learn tensorflow pandas numpy rest api flask git docker aws experience software developer at techvision 2021 2024 developed scalable apis using flask and sqlalchemy built machine learning pipelines for text classification education b tech in computer science 2020",
+    "label": "✅ Shortlisted",
+    "role": "Software Engineer"
+  },
+  {
+    "text": "mark taylor full stack developer software engineer summary versatile software developer with 4 years of experience in full stack development strong background in java sql and python built enterprise grade web applications using django and react skills java python sql django reactjs rest api docker aws git agile development ci cd experience full stack developer at innovatetech 2019 2024 designed and developed web services using django and react managed sql database optimization and backend scalability education b e in software engineering 2018",
+    "label": "✅ Shortlisted",
+    "role": "Software Engineer"
+  },
+  {
+    "text": "samantha lee marketing specialist samantha lee email com 555 987 6543 los angeles ca professional summary creative marketing specialist with 6 years of experience in digital campaigns content strategy and brand growth skills seo content marketing google analytics social media strategy email campaigns adobe creative suite experience marketing manager bright media group 2019 present directed social media campaigns and increased engagement by 45 digital marketing specialist growthworks 2015 2019 executed seo strategies and managed paid advertising campaigns education b a in marketing university of california los angeles 2015",
+    "label": "❌ Rejected",
+    "role": "Software Engineer"
+  },
+  {
+    "text": "alex johnson software engineer alex johnson email com 555 123 4567 new york ny professional summary passionate software engineer with 5 years of experience developing scalable web applications and cloud solutions skills python java javascript react aws sql docker experience senior software engineer techcorp inc 2020 present led a team of developers in building microservices for e commerce platforms software engineer innovatech solutions 2017 2020 developed rest apis and optimized database performance for saas products education b sc in computer science new york university 2017",
+    "label": "❌ Rejected",
+    "role": "Software Engineer"
+  },
+  {
+    "text": "gajanan g parve career objective 9175199947 9175013649 desire to be a part of vibrant leading automotive organization create footprints as a quality assurance field of interest engineer to assist the organizations in all aspects by utilizing all my skills knowledge abilities experience quality management with a balance of hands on management leadership responsibilities system sqa profile summary design development catia v5 knowledge a competent professional with 13 plus years of experience in quality management system production quality assurance control core competencies internal auditor certification iqcpl trng 002 2025 welding process certified ultrasonic spot weld testing by daimler ag stamping process experience of dealing with customers and suppliers handling child part layout experience of handling internal external and customer audits iatf 16949 2016 vda inspection 6 3 corrosion audit cqi12audit cqi15 audit product and process audits dock audit raw material testing having knowledge about core tools apqp ppap pfmea spc msa visual dimensional gauging inspection company profile incoming in process final 1 quality measuring am quality instruments handling marelli talbros pvt ltd is supplier of lca lower control arm of punch altroz nexon product and process mid suv supplier of tata motor fiat rear seat part to jaguar land rover it is audits established documented quality management system covering the requirements of iso ts16949 employement scan marelli talbros chassis system pvt ltd pune sr quality engineer am manager quality an iatf 16949 2016 iso 14001 2015 ohsas 19001 2007 company it has evolved into nov 2024 to till date a system supplier of designing developing manufacturing assemblies for the automotive industry supplying of biw subassemblies to mercedes benz india ltd pune s m auto engg pvt ltd supplying of silencer subassemblies to mahindra mahindra bajaj auto pune chakan pune sr quality engineer oct 2015 to april 24 sr quality engineer an iatf 16949 2016 iso 14001 2015 ohsas 19001 2007 company it has evolved into autoline industries a system supplier of manufacturing assemblies for the automotive industry ltd pune supplying of biw subassemblies to tata motor ltd pune sr quality engineer apr 2006 to dec 2010 responsibilities to establish maintain effectiveness of qms lead team of in process final qa engineers for maintain customer quality requirements as per standard professional trainings approve daily first piece inspection reports of stamping welding process 8d to generate purchase requisition purchase order of consumable item 7 qc tools asset as per requirement in quality core tools responsible for plant kpi data and action closure with effectiveness spc monitoring msa planning and execution of internal audits ultrasound test attend customer and external audits non conformity closure and effectiveness monitoring of internal customer and external audits handling customer complaints and 8d report with effectiveness monitoring daily internal rework rejection monitoring by red bin analysis software skills planning and execution of msa attribute study autocad catia v5 excel sap monitoring calibration of tools gauges machines equipment responsible for updating maintaining iatf 16949 2016 documentation hobbies incorporate refresh and on job training to quality engineers driving listening to control of review revision updating distribution of overall qm music documentation monitoring controlling different manufacturing process shop floor activities as personal dossiers per control plan implemented 5 s tpm kaizen activities on shop floor name gajanan g parve conducting daily morning meeting with all department executive to analyzing shop floor activity sales production quality planning dob 20 03 1979 achievement during tenure at company team lead to achieve best supplier performance rating of mercedes benz india ltd marital status married continuous improvement in monthly supplier performance rating team lead of relocation projects of e class c class glc subassemblies gender male successfully facing all types of process audits conducting by customer production audit vda 6 3 audit surveillance audit tcm audit ds audit corrosion nationality indian audit language known english personal traits marathi hindi willing to work as a key player in challenging and creative environment ability to acquire and apply knowledge rapidly residential address positive attitude and meeting deadlines shree samarth ht fl no 5 have leadership quality and good presentation skills good coordinator co sr no 78 4 gajanan maharaj operation with the team nagar near ganesh mandir self driven personality coupled with problem solving attitude dighi pune 411015 educational qualification diploma in mechanical engineering from bte board mumbai 2001 hsc with pune board in 1997 ssc with pune board in 1995 declaration i hereby declare that all the above information furnished by me is true to the best of my knowledge date place gajanan g parve",
+    "label": "❌ Rejected",
+    "role": "Software Engineer"
+  },
+  {
+    "text": "david lee role software engineer summary results driven software engineer proficient in full stack development and software architecture design skills c python java sql data structures algorithms git agile experience designed and implemented scalable software solutions in cross functional teams using agile methodologies",
+    "label": "✅ Shortlisted",
+    "role": "Software Engineer"
+  },
+  {
+    "text": "priya sharma role data analyst summary analytical professional experienced in transforming data into actionable insights using visualization and statistical tools skills python sql power bi tableau excel pandas data cleaning reporting experience analyzed large datasets to identify trends and improve decision making built interactive dashboards with power bi",
+    "label": "✅ Shortlisted",
+    "role": "Data Analyst"
+  },
+  {
+    "text": "ananya singh role data analyst 1 professional summary data analyst with strong skills in transforming data into actionable insights through visualization tools key skills sql excel tableau power bi python data cleaning data visualization projects created interactive sales dashboard in power bi reducing reporting time by 50 education b tech in computer science experience 2 3 years",
+    "label": "✅ Shortlisted",
+    "role": "Data Analyst"
+  },
+  {
+    "text": "vivek patel role data analyst 2 professional summary detail oriented analyst with hands on experience in data analytics and business intelligence tools key skills python pandas numpy matplotlib sql tableau statistics data mining projects automated monthly sales reports using python and tableau improving accuracy and efficiency education b tech in computer science experience 2 3 years",
+    "label": "✅ Shortlisted",
+    "role": "Data Analyst"
+  },
+  {
+    "text": "The resume shows skills like python.",
+    "label": "✅ Shortlisted",
+    "role": "Python Developer"
+  },
+  {
+    "text": "The resume shows skills like python.",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "The resume shows skills like python.",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "The resume shows skills like limited relevant experience.",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "The resume shows skills like python.",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "The resume shows skills like python.",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "The resume shows skills like python, django.",
+    "label": "✅ Shortlisted",
+    "role": "Python Developer"
+  },
+  {
+    "text": "The resume shows skills like limited relevant experience.",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "The resume shows skills like limited relevant experience.",
+    "label": "✅ Shortlisted",
+    "role": "Python Developer"
+  },
+  {
+    "text": "The resume shows skills like python.",
+    "label": "❌ Rejected",
+    "role": "Python Developer"
+  },
+  {
+    "text": "The resume shows skills like limited relevant experience.",
+    "label": "✅ Shortlisted",
+    "role": "Software Engineer"
+  },
+  {
+    "text": "The resume shows skills like excel.",
+    "label": "❌ Rejected",
+    "role": "Data Analyst"
+  },
+  {
+    "text": "The resume shows skills like api.",
+    "label": "❌ Rejected",
+    "role": "Web Developer"
+  },
+  {
+    "text": "Explain in one short professional sentence why this resume is ✅ shortlisted for a data analyst position based on these skills: excel, tableau, sql, power bi.",
+    "label": "✅ Shortlisted",
+    "role": "Data Analyst"
+  }
+]
